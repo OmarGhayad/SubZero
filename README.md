@@ -39,7 +39,7 @@ The program is designed to be run either directly via the compiled executable (f
 2.  Execute the main script using Python:
 
 ```bash
-python3 subzero_main.py
+python3 subzero.py
 
 ```
 ## 📸 Screenshot
