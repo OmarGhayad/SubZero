@@ -44,5 +44,5 @@ python3 subzero_main.py
 ```
 ## 📸 Screenshot
 ![App Screenshot](https://github.com/user-attachments/assets/f879b1f8-5a4e-4761-aac1-716cc59f9cc5)
-markdown
+
 
