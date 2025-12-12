@@ -9,7 +9,7 @@ The application features a dark-themed, user-friendly interface built using **Py
 ## ✨ Features
 
 * **Comprehensive Calculation:** Calculates all properties of the resultant network based on the input IP address and the **new** Prefix (CIDR) length.
-* **Integrated Rules & Results:** Displays the calculated result alongside the fundamental mathematical rule used (e.g., $2^N - 2$ for usable hosts) for clear educational value.
+* **Integrated Rules & Results:** Displays the calculated result alongside the fundamental mathematical rule used (e.g., $2^N - 2$) for clear educational value.
 * **Binary View:** Provides the binary representation of the Network Address, Subnet Mask, and Broadcast Address.
 * **Detailed Subnet Listing:** Generates a full list of all resulting subnets, showing the Network Address, First Host, Last Host, Broadcast Address, and Usable Host count for each.
 * **Performance Optimized:** Efficiently handles large network divisions (like subnetting a /8 network) while limiting the display of subnets (e.g., to the first 256) to prevent system resource drain.
